@@ -1,0 +1,38 @@
+{
+  "name": "pdf-splitmerger",
+  "version": "1.0.2",
+  "description": "function to split and merge pdfs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ra-hul-rv/pdf-splitmerger.git"
+  },
+  "keywords": [
+    "pdf",
+    "pdf-split",
+    "pdf-merge",
+    "merge",
+    "split",
+    "pdf-manipulation",
+    "pdf",
+    "merge",
+    "pdf",
+    "split",
+    "pdf",
+    "manipulation"
+  ],
+  "author": "RAHUL_R_V",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ra-hul-rv/pdf-splitmerger/issues"
+  },
+  "homepage": "https://github.com/ra-hul-rv/pdf-splitmerger#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "pdf-lib": "^1.17.1",
+    "pdfjs-dist": "^3.11.174"
+  }
+}
